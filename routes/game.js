@@ -6,17 +6,17 @@ function gameRoutes(app) {
     let halfOnHalfUsed = false;
 
     const questions = [{
-            question: 'asfgrgstrgtefgygt',
-            answers: ['Cdscsdvsd', 'Fsdcsdc', 'Jdsafds', 'Jadsfada'],
+            question: 'Jak mam na imie',
+            answers: ['nie wiem', 'Dawid', 'Bartek', 'Tak'],
             correctAnswer: 2,
         },
         {
-            question: 'sfcsdvd?',
-            answers: ['sadfsdf', 'afsdafdasf', 'Ndddde', 'dasfasfdzy'],
+            question: 'Czy aplikacja jest fajna',
+            answers: ['Tak', 'Tak', 'Tak', 'Bardzo'],
             correctAnswer: 3,
         },
         {
-            question: 'kbjhbhjgchgxdh',
+            question: 'hhjvk',
             answers: ['jjnn', 'hgvghgcf', 'jgvjhcgfc', 'jnkjlkbjhb'],
             correctAnswer: 0,
         },
